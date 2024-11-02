@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitKhilo, a Lbenaese American future Computer Engineer
+- 👋 Hi, I’m @gitKhilo, a Lebanese American future Computer Engineer
 - 👀 I’m interested in cybersecurity, software development, networks, and operating systems
 - 🌱 I’m currently learning network and cybersecurity and cloud computing
 - 💞️ I’m looking to collaborate on open-source security tools, web development projects, database projects, and many more
@@ -7,4 +7,4 @@
 - 🏆 Past Experience: Inetnships as a Database Engineer at American Solars and Cybersecurity and Software Development at Takleem
 - 🌐 Languages: Native fluency in English and Arabic with beginner fluency in French
 - 💼 Future Goals: Earning my bachelor's and working for a good company while hopefully pursuing even higher education
-- ⚡ Fun fact: I've lived in both the US and Lebanon, and before working with and studying computers, I used to make sandwhiches at a deli in Texas!
+- ⚡ Fun fact: I've lived in both the US and Lebanon, and before working with and studying computers, I used to make sandwhiches at a deli in Texas
